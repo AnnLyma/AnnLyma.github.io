@@ -1,4 +1,4 @@
-# About
+# Literature graduate and AI
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+In this blog I'm sharing my AI path and lessons I learned on the way.
 
