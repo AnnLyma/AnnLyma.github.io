@@ -1,7 +1,3 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+I created this blog as a part of my AI path thanks to suggestion from [fast.ai](https://www.fast.ai): the sixth (or so) ML-related course that I'm taking :sweat_smile:.
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+I made (and continue making) all kinds of mistakes on this long way, and I hope to share my experience to encourage (or discourage :smiley:) fellow humanities graduates to jump in AI (or in IT in general).
