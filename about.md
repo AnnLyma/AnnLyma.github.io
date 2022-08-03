@@ -1,6 +1,4 @@
-# About
-
-Jargon (for those who are completely outside of the field):
+# Jargon (for those who are completely outside of the field)
 
 AI - Artificial intelligence (that thing that will take all known jobs in 10 years. That thing that will possibly save humanity and make us better. Or not.)
 
