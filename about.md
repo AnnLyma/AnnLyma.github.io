@@ -6,4 +6,4 @@ ML - Machine learning (a way it's achieved: no magic, just a way to teach the co
 
 Deep Learning - one of the ways ML is done. Breakthrough and best-so-far technology for lots of applications
 
-GPT3 - A super-duper language model which writes better than you 😉. It can write code too And slogans. And dialogs. And answer questions. And complete dumb questionnaires 😉. This is [the best piece about it](https://maraoz.com/2020/07/18/openai-gpt3/), which I recommend to read to everyone. 
+GPT3 - A super-duper language model which writes better than you 😉. It can write code too. And slogans. And dialogs. And answer questions. And complete dumb questionnaires 😉. This is [the best piece about it](https://maraoz.com/2020/07/18/openai-gpt3/), which I recommend to read to everyone. 
