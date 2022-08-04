@@ -2,8 +2,6 @@
 comments_id: 5
 ---
 
-<h1>{{ page.comments_id }}</h1>
-
 
 # So, how it all started?
 
