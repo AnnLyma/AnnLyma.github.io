@@ -1,3 +1,10 @@
+---
+comments_id: 5
+---
+
+<h1>{{ page.comments_id }}</h1>
+
+
 # So, how it all started?
 
 Was it work with dumb excel tables to calculate totally random performance metrics at my first "real" post-university job, or was it a semester-long masters SPSS course, or was it 12 y.o amazement of how the (real physical) library (real physical) catalogues are organised, or was it a natural attraction to sorting/ordering/categorizing things since I was born? I'm not sure when was it the first time I was interested in *data*.
