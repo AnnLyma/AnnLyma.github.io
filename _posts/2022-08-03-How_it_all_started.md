@@ -1,7 +1,10 @@
 ---
+layout: post
+title: "So, how it all started?"
+categories:
+  - Jekyll
 comments_id: 5
 ---
-
 
 # So, how it all started?
 
