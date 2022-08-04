@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "So, how it all started?"
+permalink: How_it_all_started
 categories:
   - Jekyll
-comments_id: 5
+comments_id: 1
 ---
 
 # So, how it all started?
